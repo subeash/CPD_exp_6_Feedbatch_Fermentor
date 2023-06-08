@@ -7,7 +7,7 @@
 <b>Discipline | <b> Chemical Engineering
 :--|:--|
 <b> Lab | <b> **Chemical Process Dynamics Laboratory**
-<b> Experiment|     <b> **Stirred tank heater**
+<b> Experiment|     <b> **Feedbatch Fermentor**
 
 
 ### About the Experiment 
