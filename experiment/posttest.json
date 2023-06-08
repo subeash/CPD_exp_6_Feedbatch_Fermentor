@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " An arrangement as in your experiment is at steady state, what will happen if you decrease the input flow rate?",
+      "question": " Production of lactic acid by fermentation is a classic example of:",
       "answers": {
-        "a": "The fluid level in tank decreases continuously",
-        "b": "The fluid level in tank increases continuously",
-        "c": "The fluid level in tank decreases and then becomes constant",
-        "d": "The fluid level in tank increases and then becomes constant"
+        "a": " Non-growth associated products.",
+        "b": "Growth associated products.",
+        "c": "Mixed growth associated products.",
+        "d": "None of the above."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,33 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "An arrangement as in your experiment is at steady state, what will happen if you increase the input first and then increase the output flow rate but by the same amount?",
+      "question": "Non-growth associated products like penicillin are produced:",
       "answers": {
-        "a": "The height first increases and then decreases and reaches to it's original value",
-        "b": "The height first increases and then becomes constant but is more than the previous steady state's value",
-        "c": "The height first decreases and then increases and reaches to it's original value",
-        "d": "The height first decreases and then becomes constant but is less than the previous steady states value"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-    {
-      "question": " The steady state value of the height obtained as done practically is different from that calculated from equations with certain assumptions because",
-      "answers": {
-        "a": "The value of inflow is not exactly equal to the value of the outflow",
-        "b": "There are fluctuations in the value of the inflow",
-        "c": "There is a problem of meniscus of the fluid which leads to misjudgement of the value obtained",
-        "d": "ALL of the above"
+        "a": "When specific rate of product formation is proportional to the specific rate of growth.",
+        "b": "During deceleration phase.",
+        "c": " Just after the death phase when intracellular proteins are released into medium by the dead cells.",
+        "d": "During stationary phase."
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -52,12 +35,46 @@
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
-       {
-      "question": " The work of a rotameter is to measure the",
+    {
+      "question": " Which of the following time profile is fundamentally incorrect and shouldn’t be observed during the course of experiment:",
       "answers": {
-        "a": "Volumetric flow rate",
-        "b": "Mass flow rate",
-        "c": "Velocity",
+        "a": "Volume of fed-batch increases continuously.",
+        "b": "Product concentration increases with decreasing slope.",
+        "c": "Specific growth rate increases continuously.",
+        "d": "Substrate concentration decreases with time."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+       {
+      "question": " During the formation of growth associated products, the rate of substrate consumption depends upon:",
+      "answers": {
+        "a": "Cell maintenance only.",
+        "b": "Cell maintenance + product formation",
+        "c": "Product formation + biomass production.",
+        "d": "Sum of cell maintenance, product formation and biomass production."
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " In a single fed-batch operation:",
+      "answers": {
+        "a": "After fermentation has reached a stage, some culture is removed from vessel and replaced by fresh medium.",
+        "b": "Volume decreases and specific growth rate increases.",
+        "c": "The growth medium is added during the process and no culture is removed till the end.",
         "d": "None of these"
       },
       "explanations": {
@@ -66,41 +83,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-     {
-      "question": " At steady tank and coil arrangement as in the experiment, if the tank inlet temperature is increased then the coil outlet temperature:",
-      "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
-    },
-     {
-      "question": "At steady tank and coil arrangement as in the experiment, if the coil inlet temperature is decreased then the tank outlet temperature:",
-      "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
